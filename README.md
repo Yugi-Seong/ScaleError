@@ -8,4 +8,4 @@
 # 
 데이터 분석 코드 : SCALE불량(upgrade).ipynb  
 raw 데이터 셋 확인 및 각 변수 별 분석 계획 수립 : SCALE불량.xlsx    
-후판공정 SCALE불량 원인 분석 및 개선 방안 도출.pdf
+발표자료 : 후판공정 SCALE불량 원인 분석 및 개선 방안 도출.pdf
